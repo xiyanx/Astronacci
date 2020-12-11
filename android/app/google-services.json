@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1075987336633",
+    "project_id": "astronacci-fceca",
+    "storage_bucket": "astronacci-fceca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075987336633:android:cd09d1f2622dbaa695ba68",
+        "android_client_info": {
+          "package_name": "com.app.astronacci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075987336633-mbtanoi0vuvppus62spcp89d51r7sspn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.astronacci",
+            "certificate_hash": "6e785a1350a77847b0d04df1fd025f0230e923a0"
+          }
+        },
+        {
+          "client_id": "1075987336633-pdvd61a3hadaoimrjacv4fus0tj9crb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO4gP3IG7jCxPw_UrMJZbBZH1aSfNje2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075987336633-pdvd61a3hadaoimrjacv4fus0tj9crb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
