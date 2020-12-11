@@ -2,15 +2,15 @@
 
 A new Flutter application.
 
-## Getting Started
+## INFO
 
-This project is a starting point for a Flutter application.
+Akun Email default role user(Harus di ganti di firebase sesuai role mis.A/B/C), default role bisa di ganti di aplikasi
 
-A few resources to get you started if this is your first Flutter project:
+List Email Test :
+	1) testA@gmail.com : 12345678
+	2) testB@gmail.com : 12345678
+	3) testC@gmail.com : 12345678
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Untuk penggantian role bisa di Cloud Firestore table users, UID user , dan column role(User/A/B/C)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Karena tidak ada email untuk di tautkan ke project firebase jadi saya tautkan email career@astronacci.com untuk mengakses project firebase
