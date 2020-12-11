@@ -7,9 +7,9 @@ A new Flutter application.
 Akun Email default role user(Harus di ganti di firebase sesuai role mis.A/B/C), default role bisa di ganti di aplikasi
 
 List Email Test :
-	1) testA@gmail.com : 12345678
-	2) testB@gmail.com : 12345678
-	3) testC@gmail.com : 12345678
+	* testA@gmail.com : 12345678
+	* testB@gmail.com : 12345678
+	* testC@gmail.com : 12345678
 
 Untuk penggantian role bisa di Cloud Firestore table users, UID user , dan column role(User/A/B/C)
 
